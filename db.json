@@ -1,0 +1,44 @@
+{
+  "series": [
+    {
+      "id": 2,
+      "name": "Friends 22",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Bom para descontrair"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad",
+      "status": "watched",
+      "genre": "Drama",
+      "comments": "Say My Name - melhor cena a"
+    },
+    {
+      "id": 4,
+      "name": "The Black List",
+      "status": "toWatch",
+      "genre": "Ação",
+      "comments": "Muhammad morre."
+    },
+    {
+      "id": 5,
+      "name": "O atirador",
+      "status": "toWatch",
+      "genre": "Ação",
+      "comments": "Julie Morre."
+    },
+    {
+      "id": 6,
+      "name": "La casa de papel",
+      "status": "toWatch",
+      "genre": "Ação",
+      "comments": "Berlim morre!!!"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
